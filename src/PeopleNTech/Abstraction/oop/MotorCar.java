@@ -11,4 +11,5 @@ public abstract class MotorCar {
     public void bigSizeMotorCar() {
         System.out.println("Big shape car that can carry 50 people");
     }
+
 }
